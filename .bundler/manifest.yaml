@@ -1,0 +1,4 @@
+name: Test Component No. 2
+builder:
+  variant: generic-golang
+  version: snapshot
