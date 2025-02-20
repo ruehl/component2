@@ -1,4 +1,5 @@
 name: Test Component No. 2
+no-artifact: true
 builder:
   variant: generic-golang
   version: snapshot
